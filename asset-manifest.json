@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Ashwini-1603/ThePortfolyo-live/static/css/main.ec7514dd.css",
-    "main.js": "/Ashwini-1603/ThePortfolyo-live/static/js/main.3f254b21.js",
-    "index.html": "/Ashwini-1603/ThePortfolyo-live/index.html",
-    "main.ec7514dd.css.map": "/Ashwini-1603/ThePortfolyo-live/static/css/main.ec7514dd.css.map",
-    "main.3f254b21.js.map": "/Ashwini-1603/ThePortfolyo-live/static/js/main.3f254b21.js.map"
+    "main.css": "/Ashwini-1603/ThePortfolyo-live-code/static/css/main.ec7514dd.css",
+    "main.js": "/Ashwini-1603/ThePortfolyo-live-code/static/js/main.3f254b21.js",
+    "index.html": "/Ashwini-1603/ThePortfolyo-live-code/index.html",
+    "main.ec7514dd.css.map": "/Ashwini-1603/ThePortfolyo-live-code/static/css/main.ec7514dd.css.map",
+    "main.3f254b21.js.map": "/Ashwini-1603/ThePortfolyo-live-code/static/js/main.3f254b21.js.map"
   },
   "entrypoints": [
     "static/css/main.ec7514dd.css",
